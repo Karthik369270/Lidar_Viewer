@@ -1,0 +1,4 @@
+flask>=3.0
+numpy>=1.24
+dpkt>=1.9.8
+pandas>=2.0       # only needed for the IMU / deskew
